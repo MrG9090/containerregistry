@@ -1,4 +1,4 @@
-<table><tr>
+ <table><tr>
 <td>
   <a href="https://gcr.io">
     <img src="https://avatars2.githubusercontent.com/u/1342004?s=200&v=4"
